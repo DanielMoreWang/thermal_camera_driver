@@ -1,0 +1,4 @@
+/home/labsun/IR_02/USB_Linux_SDK_20220831/build/CMakeFiles/rebuild_cache.dir
+/home/labsun/IR_02/USB_Linux_SDK_20220831/build/CMakeFiles/edit_cache.dir
+/home/labsun/IR_02/USB_Linux_SDK_20220831/build/CMakeFiles/IRCameraDemo_02.dir
+/home/labsun/IR_02/USB_Linux_SDK_20220831/build/CMakeFiles/IRCameraDemo_02_autogen.dir

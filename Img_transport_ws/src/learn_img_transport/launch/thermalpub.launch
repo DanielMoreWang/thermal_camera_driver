@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch>
+    <node name="image_publisher" pkg="learn_img_transport" type="image_publisher" output="screen">
+
+    </node>
+
+    <include file="$(find zed_wrapper)/launch/zed2i.launch">
+
+    </include>
+
+    <node name="rviz" pkg="rviz" type="rviz" args="-d $(find learn_img_transport)/rviz/rgbt.rviz">
+    </node>
+</launch>

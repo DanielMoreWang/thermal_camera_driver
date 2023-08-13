@@ -1,0 +1,3 @@
+/home/labsun/IR_mine/sub_build/CMakeFiles/edit_cache.dir
+/home/labsun/IR_mine/sub_build/CMakeFiles/rebuild_cache.dir
+/home/labsun/IR_mine/sub_build/CMakeFiles/Video_Capture.dir

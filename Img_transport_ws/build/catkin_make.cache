@@ -1,0 +1,2 @@
+learn_img_transport
+-DCATKIN_DEVEL_PREFIX=/home/labsun/Img_transport_ws/devel -DCMAKE_INSTALL_PREFIX=/home/labsun/Img_transport_ws/install -G Unix Makefiles
